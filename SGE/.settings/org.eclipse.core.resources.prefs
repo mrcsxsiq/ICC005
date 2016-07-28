@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/README.txt=UTF-8
+encoding//src/bancodedados/DisciplinaDAO.java=UTF-8
+encoding//src/bancodedados/NotasDAO.java=UTF-8
+encoding//src/bancodedados/ProfessorDAO.java=UTF-8
+encoding//src/bancodedados/ProvasDAO.java=UTF-8
+encoding//src/bancodedados/TrabalhosDAO.java=UTF-8
+encoding//src/windowbuilder/disciplinas/VisualizarDisciplinas.java=UTF-8
+encoding//src/windowbuilder/horarios/Horarios.java=UTF-8
+encoding//src/windowbuilder/notas/CadastrarNotas.java=UTF-8
+encoding//src/windowbuilder/notas/Notas.java=UTF-8
+encoding//src/windowbuilder/notas/VisualizarNotas.java=UTF-8
+encoding//src/windowbuilder/principal/Principal.java=UTF-8
+encoding//src/windowbuilder/professor/VisualizarProfessores.java=UTF-8
+encoding//src/windowbuilder/provas/VisualizarProvas.java=UTF-8
+encoding//src/windowbuilder/trabalhos/VisualizarTrabalhos.java=UTF-8
